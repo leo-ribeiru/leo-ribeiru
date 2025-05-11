@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leo-ribeiru
-- 👀 I’m interested in começar nesse mundo da programação
-- 🌱 I’m currently learning devops, css, html
+
 
 
 <!---
